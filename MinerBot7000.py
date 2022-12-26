@@ -1,0 +1,1 @@
+# An app that will automate the mining process by watching the pixels on the game's screen and make fine tuned adjustments 
